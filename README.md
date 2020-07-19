@@ -1,16 +1,17 @@
-### Hi there 👋
+![](https://media.giphy.com/media/S92INgeECCc0VkaJ5h/giphy.gif)
 
-<!--
-**ojasvik/ojasvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey! I am Ojasvi Khurana :octocat:
 
-Here are some ideas to get you started:
+I am an engineering undergrad. I love technology and communities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Flutter and JavaScript.
+- 🙋 Pronouns: she/her
+- ✨ Fun fact: I love writing stuff, making puns and street theatre🎭.
+
+##### My profiles:
+
+- 👥 [LinkedIn](https://www.linkedin.com/in/ojasvikhurana/)
+- 🐦 [Twitter](https://twitter.com/ojasvikhurana)
+- 🚩 [GitHub Campus Expert Profile](https://githubcampus.expert/ojasvik/)
+- ✏️ [Medium](https://medium.com/@khuranaojasvi)
+-  👩‍💻[CodeChef](https://www.codechef.com/users/ojasvikhurana)
