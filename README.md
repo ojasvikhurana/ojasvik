@@ -14,4 +14,5 @@ I am an engineering undergrad. I love technology and communities.
 - 🐦 [Twitter](https://twitter.com/ojasvikhurana)
 - 🚩 [GitHub Campus Expert Profile](https://githubcampus.expert/ojasvik/)
 - ✏️ [Medium](https://medium.com/@khuranaojasvi)
--  👩‍💻[CodeChef](https://www.codechef.com/users/ojasvikhurana)
+- 👩‍💻[CodeChef](https://www.codechef.com/users/ojasvikhurana)
+- 👩‍💻[Codeforces[(https://codeforces.com/profile/ojasvik)
