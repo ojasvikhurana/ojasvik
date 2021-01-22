@@ -6,7 +6,7 @@ I am an engineering undergrad. I love technology and communities.
 
 - 🌱 I’m currently learning Python and React.
 - 🙋 Pronouns: she/her
-- ✨ Fun fact: I love writing stuff, making puns and street theatre🎭.
+- ✨ Fun fact: I love writing stuff, managing events, doodling and street theatre🎭.
 
 ##### My profiles:
 
