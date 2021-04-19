@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/S92INgeECCc0VkaJ5h/giphy.gif)
-
 ### Hey! I am Ojasvi Khurana :octocat:
 
 I am an engineering undergrad. I love technology and communities.
